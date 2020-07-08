@@ -44,3 +44,16 @@
 li{
     list-style-type: none;
 }
+.bg-image{
+    background-image: url(Photos/form-bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index:2;
+    
+}
+form{
+    
+    color:yellow;
+    height:100vh;
+}
