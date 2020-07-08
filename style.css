@@ -1,0 +1,46 @@
+.container{
+    margin-bottom:100px;
+}
+.button-customize{
+    background-color: #21B573;
+    border:none;
+    border-radius: 30px;
+    padding:8px 15px;
+    color:white;
+}
+.btn-design{
+    background-color:#21B573;
+    border-radius:30px;
+    cursor: pointer;
+    
+}
+.text-style{
+    color:orange;
+}
+.font-family{
+    font-family: 'Coda Caption', sans-serif;
+    
+}
+.resizing{
+    width:75px;
+    height:auto;
+}
+.resizing-logo{
+    width:250px;
+}
+
+
+.resizing-card-icon{
+    width:25px;
+    height:auto;
+}
+
+
+.background{
+    background-color:#282531;
+    color:white;
+    
+}
+li{
+    list-style-type: none;
+}
